@@ -15,10 +15,10 @@ import (
 	"time"
 
 	"github.com/vkcom/engine-go/srvfunc"
-	"github.com/nagnit4enko/kittenhouse/core/clickhouse"
-	"github.com/nagnit4enko/kittenhouse/core/destination"
-	"github.com/nagnit4enko/kittenhouse/core/inmem"
-	"github.com/nagnit4enko/kittenhouse/core/persist"
+	"kittenhouse/core/clickhouse"
+	"kittenhouse/core/destination"
+	"kittenhouse/core/inmem"
+	"kittenhouse/core/persist"
 )
 
 var (
