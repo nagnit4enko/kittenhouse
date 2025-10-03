@@ -7,9 +7,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/vkcom/kittenhouse/core/clickhouse"
-	"github.com/vkcom/kittenhouse/core/destination"
-	"github.com/vkcom/kittenhouse/core/persist"
+	"kittenhouse/core/clickhouse"
+	"kittenhouse/core/destination"
+	"kittenhouse/core/persist"
 )
 
 const (
