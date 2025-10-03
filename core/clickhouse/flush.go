@@ -19,7 +19,7 @@ import (
 	"time"
 
 	"github.com/vkcom/engine-go/srvfunc"
-	"github.com/nagnit4enko/kittenhouse/core/destination"
+	"kittenhouse/core/destination"
 )
 
 const (
